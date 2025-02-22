@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarthak Gupta</h1>
 <h3 align="center">A Data Analyst and passionate Data Science and AI/ML Enthusiast</h3>
-<p align="left"> <a href="https://github.com/" target="blank"><img src="https://img.shields.io/twitter/follow/namansharma15?logo=github&style=for-the-badge" alt="namansharma15" /></a> </p>
+<p align="left"> <a href="https://github.com/" target="blank"><img src="https://img.shields.io/twitter/follow/sarthakgupta113?logo=github&style=for-the-badge" alt="sarthakgupta113" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namansharma15" alt="sarthakgupta113" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakgupta113" alt="sarthakgupta113" /></a> </p>
 
 - 🔭 I’m currently working on **Disease Prediction Deep Learning Model**
 
