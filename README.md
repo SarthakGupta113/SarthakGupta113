@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namansharma15" alt="namansharma15" /></a> </p>
 
-- 🔭 I’m currently working on **Disease Prediction ML Model**
+- 🔭 I’m currently working on **Disease Prediction Deep Learning Model**
 
 - 🌱 I’m currently learning **PySpark, Apache Spark**
 
