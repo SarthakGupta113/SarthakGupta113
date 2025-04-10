@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakgupta113" alt="sarthakgupta113" /></a> </p>
 
-- 🔭 I’m currently working on **Disease Prediction Deep Learning Model**
+- 🔭 I’m currently working on **AI-Powered Personalized Patient Chatbot**
 
-- 🌱 I’m currently learning **PySpark, Apache Spark**
+- 🌱 I’m currently learning **Hugging Face, NLP Toolkit**
 
 - 📫 How to reach me **sarthakgupta319@gmail.com**
 
